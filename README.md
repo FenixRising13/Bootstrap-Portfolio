@@ -1,4 +1,6 @@
 # Bootstrap-Portfolio
+
+## Description
 This is my basic portfolio redesigned with Bootstrap
 
 ## Built With

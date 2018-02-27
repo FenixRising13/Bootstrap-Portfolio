@@ -1,2 +1,10 @@
 # Bootstrap-Portfolio
-This Repository is for the 2nd Homework Assignment.
+This is my basic portfolio redesigned with Bootstrap
+
+## Built With
+* HTML
+* CSS
+* Bootstrap CSS 3.3 | https://getbootstrap.com/
+
+## Author
+Mark Powalisz
